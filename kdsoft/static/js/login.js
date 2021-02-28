@@ -1,0 +1,1 @@
+var hours =24
